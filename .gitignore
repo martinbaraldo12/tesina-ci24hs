@@ -1,0 +1,10 @@
+# se regeneran al correr el pipeline
+data/
+output/
+# entornos y dependencias
+.venv/
+__pycache__/
+*.pyc
+# los Excel intradiarios del feed no se suben
+datos_crudos/*.xlsx
+.DS_Store

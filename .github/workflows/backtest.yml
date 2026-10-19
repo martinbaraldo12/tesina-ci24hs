@@ -1,0 +1,31 @@
+name: Correr el backtest
+
+on:
+  workflow_dispatch:
+
+jobs:
+  backtest:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Instalar librerías
+        run: |
+          pip install -r requirements.txt
+
+      - name: Correr el pipeline
+        run: python run_all.py
+
+      - name: Guardar resultados
+        uses: actions/upload-artifact@v6
+        with:
+          name: resultados
+          path: |
+            output/
+            data/*.csv

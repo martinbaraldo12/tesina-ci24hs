@@ -1,0 +1,2 @@
+Copiar en esta carpeta todos los archivos series_intradiarias_*.xlsx.
+caucion_a3.csv (caución oficial de A3 Mercados) ya viene incluido.

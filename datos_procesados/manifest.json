@@ -1,0 +1,474 @@
+[
+  {
+    "file": "series_intradiarias_24092026025619.xlsx",
+    "fecha": "2025-10-08",
+    "bloque": "estres_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 13311595
+  },
+  {
+    "file": "series_intradiarias_24092026025916.xlsx",
+    "fecha": "2025-10-09",
+    "bloque": "estres_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 18306389
+  },
+  {
+    "file": "series_intradiarias_24092026030618.xlsx",
+    "fecha": "2025-10-13",
+    "bloque": "estres_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 19364386
+  },
+  {
+    "file": "series_intradiarias_24092026031211.xlsx",
+    "fecha": "2025-12-09",
+    "bloque": "calma_dic_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 10452959
+  },
+  {
+    "file": "series_intradiarias_24092026031504.xlsx",
+    "fecha": "2025-12-10",
+    "bloque": "calma_dic_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 10050766
+  },
+  {
+    "file": "series_intradiarias_24092026033125.xlsx",
+    "fecha": "2025-12-11",
+    "bloque": "calma_dic_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 9529659
+  },
+  {
+    "file": "series_intradiarias_24092026033305.xlsx",
+    "fecha": "2025-12-12",
+    "bloque": "calma_dic_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 8129543
+  },
+  {
+    "file": "series_intradiarias_24092026033536.xlsx",
+    "fecha": "2025-12-15",
+    "bloque": "calma_dic_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 11589857
+  },
+  {
+    "file": "series_intradiarias_24092026033756.xlsx",
+    "fecha": "2025-12-16",
+    "bloque": "calma_dic_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 11654456
+  },
+  {
+    "file": "series_intradiarias_24092026035436.xlsx",
+    "fecha": "2025-12-17",
+    "bloque": "calma_dic_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 13254285
+  },
+  {
+    "file": "series_intradiarias_24092026044914.xlsx",
+    "fecha": "2025-12-18",
+    "bloque": "calma_dic_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 13422077
+  },
+  {
+    "file": "series_intradiarias_24092026052611.xlsx",
+    "fecha": "2025-12-19",
+    "bloque": "calma_dic_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 11400644
+  },
+  {
+    "file": "series_intradiarias_24092026103940.xlsx",
+    "fecha": "2025-09-24",
+    "bloque": "estres_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 16087905
+  },
+  {
+    "file": "series_intradiarias_24092026104407.xlsx",
+    "fecha": "2025-09-25",
+    "bloque": "estres_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 15400108
+  },
+  {
+    "file": "series_intradiarias_24092026104818.xlsx",
+    "fecha": "2025-09-26",
+    "bloque": "estres_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 18367594
+  },
+  {
+    "file": "series_intradiarias_24092026105025.xlsx",
+    "fecha": "2025-09-29",
+    "bloque": "estres_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 11091028
+  },
+  {
+    "file": "series_intradiarias_24092026105322.xlsx",
+    "fecha": "2025-09-30",
+    "bloque": "estres_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 14841795
+  },
+  {
+    "file": "series_intradiarias_24092026105910.xlsx",
+    "fecha": "2025-10-02",
+    "bloque": "estres_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 15959015
+  },
+  {
+    "file": "series_intradiarias_24092026110243.xlsx",
+    "fecha": "2025-10-03",
+    "bloque": "estres_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 12350451
+  },
+  {
+    "file": "series_intradiarias_24092026111543.xlsx",
+    "fecha": "2025-10-06",
+    "bloque": "estres_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 12136657
+  },
+  {
+    "file": "series_intradiarias_24092026114506.xlsx",
+    "fecha": "2025-10-07",
+    "bloque": "estres_2025",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 11867874
+  },
+  {
+    "file": "series_intradiarias_25092026103016.xlsx",
+    "fecha": "2026-04-13",
+    "bloque": "calma_abr_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 11465906
+  },
+  {
+    "file": "series_intradiarias_25092026103356.xlsx",
+    "fecha": "2026-04-14",
+    "bloque": "calma_abr_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 11481924
+  },
+  {
+    "file": "series_intradiarias_25092026104544.xlsx",
+    "fecha": "2026-04-15",
+    "bloque": "calma_abr_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 10398722
+  },
+  {
+    "file": "series_intradiarias_25092026105449.xlsx",
+    "fecha": "2026-04-17",
+    "bloque": "calma_abr_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 10520595
+  },
+  {
+    "file": "series_intradiarias_25092026110126.xlsx",
+    "fecha": "2026-04-20",
+    "bloque": "calma_abr_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 10306110
+  },
+  {
+    "file": "series_intradiarias_25092026110404.xlsx",
+    "fecha": "2026-04-21",
+    "bloque": "calma_abr_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 9025762
+  },
+  {
+    "file": "series_intradiarias_25092026111810.xlsx",
+    "fecha": "2026-04-22",
+    "bloque": "calma_abr_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 8118990
+  },
+  {
+    "file": "series_intradiarias_25092026114031.xlsx",
+    "fecha": "2026-04-23",
+    "bloque": "calma_abr_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 8357249
+  },
+  {
+    "file": "series_intradiarias_25092026114357.xlsx",
+    "fecha": "2026-04-24",
+    "bloque": "calma_abr_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 7913629
+  },
+  {
+    "file": "series_intradiarias_25092026114643.xlsx",
+    "fecha": "2026-09-07",
+    "bloque": "reciente_sep_2026",
+    "status": "excluida",
+    "motivo": "Feriado en EE.UU. (Labor Day): los CEDEARs no operaron en CI",
+    "bytes": 9613479
+  },
+  {
+    "file": "series_intradiarias_25092026114903.xlsx",
+    "fecha": "2026-09-08",
+    "bloque": "reciente_sep_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 9581170
+  },
+  {
+    "file": "series_intradiarias_25092026115055.xlsx",
+    "fecha": "2026-09-09",
+    "bloque": "reciente_sep_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 9180063
+  },
+  {
+    "file": "series_intradiarias_25092026120209.xlsx",
+    "fecha": "2026-09-10",
+    "bloque": "reciente_sep_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 8748633
+  },
+  {
+    "file": "series_intradiarias_25092026124434.xlsx",
+    "fecha": "2026-08-11",
+    "bloque": null,
+    "status": "fuera_de_bloque",
+    "motivo": null,
+    "bytes": 4886811
+  },
+  {
+    "file": "series_intradiarias_25092026125118.xlsx",
+    "fecha": "2026-08-12",
+    "bloque": null,
+    "status": "fuera_de_bloque",
+    "motivo": null,
+    "bytes": 4199026
+  },
+  {
+    "file": "series_intradiarias_25092026125224.xlsx",
+    "fecha": "2026-08-13",
+    "bloque": null,
+    "status": "fuera_de_bloque",
+    "motivo": null,
+    "bytes": 5689026
+  },
+  {
+    "file": "series_intradiarias_28092026112859.xlsx",
+    "fecha": "2026-04-16",
+    "bloque": "calma_abr_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 10314603
+  },
+  {
+    "file": "series_intradiarias_28092026113247.xlsx",
+    "fecha": "2026-09-11",
+    "bloque": "reciente_sep_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 8421759
+  },
+  {
+    "file": "series_intradiarias_28092026113554.xlsx",
+    "fecha": "2026-09-14",
+    "bloque": "reciente_sep_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 11900949
+  },
+  {
+    "file": "series_intradiarias_28092026124320.xlsx",
+    "fecha": "2026-09-16",
+    "bloque": "reciente_sep_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 7644414
+  },
+  {
+    "file": "series_intradiarias_28092026124537.xlsx",
+    "fecha": "2026-09-17",
+    "bloque": "reciente_sep_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 7334100
+  },
+  {
+    "file": "series_intradiarias_28092026124715.xlsx",
+    "fecha": "2026-09-18",
+    "bloque": "reciente_sep_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 7292333
+  },
+  {
+    "file": "series_intradiarias_28092026125040.xlsx",
+    "fecha": "2026-09-21",
+    "bloque": "estres_sep_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 9013310
+  },
+  {
+    "file": "series_intradiarias_29092026043900.xlsx",
+    "fecha": "2026-09-23",
+    "bloque": "estres_sep_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 7861613
+  },
+  {
+    "file": "series_intradiarias_29092026044028.xlsx",
+    "fecha": "2026-09-24",
+    "bloque": "estres_sep_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 8456507
+  },
+  {
+    "file": "series_intradiarias_29092026044249.xlsx",
+    "fecha": "2026-09-25",
+    "bloque": "estres_sep_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 8488378
+  },
+  {
+    "file": "series_intradiarias_29092026044418.xlsx",
+    "fecha": "2026-06-22",
+    "bloque": "calma_jun_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 9698787
+  },
+  {
+    "file": "series_intradiarias_29092026044609.xlsx",
+    "fecha": "2026-06-23",
+    "bloque": "calma_jun_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 8787157
+  },
+  {
+    "file": "series_intradiarias_29092026044757.xlsx",
+    "fecha": "2026-06-24",
+    "bloque": "calma_jun_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 9606974
+  },
+  {
+    "file": "series_intradiarias_29092026045023.xlsx",
+    "fecha": "2026-06-25",
+    "bloque": "calma_jun_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 8469681
+  },
+  {
+    "file": "series_intradiarias_29092026045158.xlsx",
+    "fecha": "2026-06-26",
+    "bloque": "calma_jun_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 7511914
+  },
+  {
+    "file": "series_intradiarias_29092026045422.xlsx",
+    "fecha": "2026-06-29",
+    "bloque": "calma_jun_2026",
+    "status": "excluida",
+    "motivo": "YMCIO paga renta y amortización el 30/6/2026: ese día la pata CI liquida con el pago y la 24hs sin él (17% de diferencia); se excluye la rueda para todas las especies",
+    "bytes": 10896320
+  },
+  {
+    "file": "series_intradiarias_29092026045629.xlsx",
+    "fecha": "2026-06-30",
+    "bloque": "calma_jun_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 9627645
+  },
+  {
+    "file": "series_intradiarias_29092026050006.xlsx",
+    "fecha": "2026-07-01",
+    "bloque": "calma_jun_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 11551532
+  },
+  {
+    "file": "series_intradiarias_29092026050340.xlsx",
+    "fecha": "2026-07-02",
+    "bloque": "calma_jun_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 10629100
+  },
+  {
+    "file": "series_intradiarias_29092026050613.xlsx",
+    "fecha": "2026-07-03",
+    "bloque": "calma_jun_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 7670724
+  },
+  {
+    "file": "series_intradiarias_30092026035939.xlsx",
+    "fecha": "2026-09-22",
+    "bloque": "estres_sep_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 8114170
+  },
+  {
+    "file": "series_intradiarias_30092026040217.xlsx",
+    "fecha": "2026-09-15",
+    "bloque": "reciente_sep_2026",
+    "status": "en_bloque",
+    "motivo": null,
+    "bytes": 8012570
+  }
+]
